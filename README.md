@@ -8,10 +8,6 @@ Undersampling, Oversampling, combination and Ensemble learners have been used to
 
 ## Results
 
-
-
-## Summary
-
 ### Oversampling
 Both the SMOTE and Naive Random Oversampling had low accuracy scores at around 63%.
 
